@@ -2,6 +2,7 @@ package com.taotaotao.algorithm.ChapterOne;
 
 /**
  * 基本操作执行次数  时间复杂度
+ * O(1)<O(logn)<O(n)<O(n2)
  */
 public class demo1 {
     /**
